@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Carlos Reynoso",
+	"description": "Aprendiendo las propiedades principales de package.json con freeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
